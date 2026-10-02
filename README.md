@@ -1,12 +1,21 @@
-### Project 0
+# CS50 Web Coursework Project
 
-- it's contain 4 html page :
-- index.html: the main page of the website, contains a summary of what the website is about.
-- projects.html: present my projects with short descriptions
-- about.html: contains a brief intro about myself
-- contact.html: shows contact form and contact information 
-- note  :  number not true 
+An early web-development coursework project created around CS50 learning exercises.
 
-*I used bootstrap style my website*
+## What is included
 
-that is all 
+The repository contains a small multi-page static website with:
+
+- `index.html` — course/project landing page
+- `project.html` — coursework/project requirements and examples
+- `about.html` — about page
+- `contact.html` — contact page
+- `style/` — project images and CSS/SCSS styling
+
+The pages use HTML/CSS together with Bootstrap/Material Design Bootstrap resources and Font Awesome.
+
+## Purpose
+
+This repository is retained as historical learning work demonstrating foundational HTML/CSS, navigation, layout, tables, lists, images, and multi-page website structure.
+
+It should be read as coursework/learning history rather than a current production web application.
